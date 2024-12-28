@@ -17,7 +17,8 @@
    <p>
          <input type = "radio" name = "Gender" value = "Male"> Male
          <input type = "radio" name = "Gender" value = "Female"> Female
-</p>
+         <input type = "radio" name = "Gender" value = "transgender"> transgender
+</p> 
  
 <p>
 Employee ID: <input type = "text" name = "ID" />
